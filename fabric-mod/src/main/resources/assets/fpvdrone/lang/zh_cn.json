@@ -1,4 +1,11 @@
 {
+	"item.fpvdrone.propeller": "5 英寸三叶飞桨",
+	"item.fpvdrone.brushless_motor": "无刷电机",
+	"item.fpvdrone.esc": "四合一电子调速器",
+	"item.fpvdrone.flight_controller": "飞行控制器",
+	"item.fpvdrone.lipo_battery": "6S 锂聚合物电池",
+	"item.fpvdrone.carbon_frame": "碳纤维机架",
+	"item.fpvdrone.fpv_drone": "5 英寸 FPV 穿越机",
 	"item.fpvdrone.drone_controller": "FPV 无人机遥控器",
 	"entity.fpvdrone.drone": "FPV 无人机",
 	"creativeTab.fpvdrone": "FPV Dronecraft",

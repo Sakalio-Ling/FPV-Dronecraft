@@ -1,4 +1,11 @@
 {
+	"item.fpvdrone.propeller": "5-inch Tri-blade Propeller",
+	"item.fpvdrone.brushless_motor": "Brushless Motor",
+	"item.fpvdrone.esc": "4-in-1 Electronic Speed Controller",
+	"item.fpvdrone.flight_controller": "Flight Controller",
+	"item.fpvdrone.lipo_battery": "6S LiPo Battery",
+	"item.fpvdrone.carbon_frame": "Carbon Fiber Frame",
+	"item.fpvdrone.fpv_drone": "5-inch FPV Drone",
 	"item.fpvdrone.drone_controller": "FPV Drone Controller",
 	"entity.fpvdrone.drone": "FPV Drone",
 	"creativeTab.fpvdrone": "FPV Dronecraft",

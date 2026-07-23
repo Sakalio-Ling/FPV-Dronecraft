@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "equipment",
+	"ingredients": [
+		"fpvdrone:propeller",
+		"fpvdrone:brushless_motor",
+		"fpvdrone:esc",
+		"fpvdrone:flight_controller",
+		"fpvdrone:lipo_battery",
+		"fpvdrone:carbon_frame"
+	],
+	"result": {
+		"id": "fpvdrone:fpv_drone",
+		"count": 1
+	}
+}
